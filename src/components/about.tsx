@@ -21,7 +21,7 @@ const About = () => {
               <Image src={book} alt="book" />
               <div>
                 <h2>Book Title</h2>
-                <p>I am studying Cloud Generative AI Engineering. I am an expert in Next.js, JavaScript, TypeScript, HTML, Tailwind CSS, and CSS.</p>
+                <p>I &apos;am studying Cloud Generative AI Engineering. I am an expert in Next.js, JavaScript, TypeScript, HTML, Tailwind CSS, and CSS.</p>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@ const About = () => {
               <Image src={finance} alt="finance" />
               <div>
                 <h2>Problem Solving</h2>
-                <p>I approach challenges with a logical and systematic mindset.</p>
+                <p>I &apos; approach challenges with a logical and systematic mindset.</p>
               </div>
             </div>
           </div>
@@ -41,7 +41,7 @@ const About = () => {
               <Image src={card} alt="card" />
               <div>
                 <h2>Experience</h2>
-                <p>I have a diverse portfolio of projects.</p>
+                <p>I &apos; have a diverse portfolio of projects.</p>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@ const About = () => {
               <Image src={pc} alt="pc" />
               <div>
                 <h2>Technical Skills</h2>
-                <p>I specialize in Next.js, React.js, and Tailwind CSS.</p>
+                <p>I &apos; specialize in Next.js, React.js, and Tailwind CSS.</p>
               </div>
             </div>
           </div>

@@ -23,8 +23,9 @@ const Contact = () => {
 
         {/* Form Section */}
         <div className="form-section">
-          <h2 className="text-2xl font-semibold text-center">Let's Connect</h2>
-          <p className="text-center mb-4">Send me a message and let's schedule a call</p>
+        <h2 className="text-2xl font-semibold text-center">Let&apos;s Connect</h2>
+<p className="text-center mb-4">Send me a message and let&apos;s schedule a call</p>
+
 
           <form action="https://getform.io/f/bejjylja" method="POST" className="space-y-4">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
